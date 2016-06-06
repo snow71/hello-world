@@ -1,2 +1,4 @@
 # hello-world
-My first GitHUb repo
+My first GitHub repo
+
+... and my first branch on 'master'
